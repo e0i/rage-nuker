@@ -1,0 +1,7 @@
+discord==1.7.3
+json
+requests
+pyfiglet
+selenium
+pyperclip
+webdriver
